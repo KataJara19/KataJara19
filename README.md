@@ -1,98 +1,182 @@
-<!-- BANNER SUPERIOR CON ONDAS (ROSE GOLD) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B5838D&height=220&section=header&text=Katalina%20Jaramillo&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20%E2%9C%A6%20Cloud%20Architecture%20%E2%9C%A6%20Cybersecurity&descAlignY=55&descSize=14&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B5838D&height=220&section=header&text=Katalina%20Jaramillo%20Loj%C3%A1n&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%E2%9C%A6%20Backend%20Architecture%20%E2%9C%A6%20Cybersecurity&descAlignY=55&descSize=14&animation=fadeIn" width="100%" alt="Header Banner"/>
 </div>
 
 <br>
 
-<!-- ANIMACIÓN DE TEXTO CON FUENTE ELEGANTE (PLAYFAIR DISPLAY) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&pause=2500&color=B5838D&center=true&vCenter=true&width=800&lines=Crafting+elegant+code;Architecting+secure+systems;Designing+scalable+cloud+infrastructure" alt="Typing effect" />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&pause=2500&color=B5838D&center=true&vCenter=true&width=900&lines=Software+Engineering;Backend+Architecture;Cloud+Infrastructure;Secure+Application+Development;AWS+Student+Builder" alt="Typing effect" />
+</div>
+
+<br><hr><br>
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3 style="color: #B5838D;">⟡ Professional Summary</h3>
+      <p>I am a 4th-semester Systems Engineering student at Universidad Internacional del Ecuador and an active member of the AWS Student Builder Group. I have a strong interest in software engineering, secure application development, cloud infrastructure, and backend architecture.</p>
+      <p>Throughout my academic and personal projects, I have focused on building scalable software by combining modern development practices with networking, virtualization, and cybersecurity principles. My work ranges from full-stack web applications and RESTful APIs to Linux-based infrastructure, authentication systems, and virtualized network environments.</p>
+    </td>
+    <td width="45%" valign="top">
+      <h3 style="color: #B5838D;">⟡ Engineering Profile</h3>
+      <p>Rather than focusing exclusively on application development, I am interested in the complete software lifecycle—from software architecture and backend engineering to infrastructure, cloud technologies, and cybersecurity.</p>
+      <p>My objective is to continue developing solutions that integrate modern web technologies with secure software engineering practices, emphasizing performance, reliability, and clean architectural design.</p>
+    </td>
+  </tr>
+</table>
+
+<br><hr><br>
+
+<h3 align="center" style="color: #B5838D;">⟡ Software Engineering Domains ⟡</h3>
+<br>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>∘ Backend Engineering</h4>
+      <p>Designing scalable backend services with an emphasis on maintainability, modularity, and secure communication through RESTful architectures.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>∘ Cloud Infrastructure</h4>
+      <p>Building software prepared for cloud environments while exploring deployment strategies, virtualization, and distributed systems.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>∘ Cybersecurity</h4>
+      <p>Applying security principles throughout software development, including authentication, authorization, encryption, and infrastructure protection.</p>
+    </td>
+  </tr>
+</table>
+
+<br><hr><br>
+
+<h3 align="center" style="color: #B5838D;">⟡ Engineering Metrics ⟡</h3>
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h2 style="color: #B5838D;">11+</h2>
+      <p>Repositories</p>
+    </td>
+    <td align="center" width="25%">
+      <h2 style="color: #B5838D;">4</h2>
+      <p>Full-Stack Projects</p>
+    </td>
+    <td align="center" width="25%">
+      <h2 style="color: #B5838D;">7+</h2>
+      <p>Infrastructure Labs</p>
+    </td>
+    <td align="center" width="25%">
+      <h2 style="color: #B5838D;">100%</h2>
+      <p>Continuous Learning</p>
+    </td>
+  </tr>
+</table>
+
+<br><hr><br>
+
+<h3 align="center" style="color: #B5838D;">⟡ Engineering Portfolio ⟡</h3>
+<br>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 style="color: #B5838D;">Software Engineering</h4>
+      <ul>
+        <li><b><a href="https://github.com/KataJara19/TiendaEsmeralda" style="color: #5C4D56;">TiendaEsmeralda</a></b>: Full-Stack Commerce Ecosystem.</li>
+        <li><b><a href="https://github.com/KataJara19/Replicaci-n-Youtube" style="color: #5C4D56;">Replicación-YouTube</a></b>: Media Streaming UI Clone.</li>
+        <li><b><a href="https://github.com/KataJara19/Api-con-frontend" style="color: #5C4D56;">Api-con-frontend</a></b>: Decoupled REST Integration.</li>
+        <li><b><a href="https://github.com/KataJara19/Mi-Portafolio" style="color: #5C4D56;">Mi-Portafolio</a></b>: Responsive Static Architecture.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 style="color: #B5838D;">Cybersecurity</h4>
+      <ul>
+        <li><b><a href="https://github.com/KataJara19/API-SEGURIDAD" style="color: #5C4D56;">API-SEGURIDAD</a></b>: Secure Auth Endpoints.</li>
+        <li><b><a href="https://github.com/KataJara19/Ciberapi" style="color: #5C4D56;">Ciberapi</a></b>: Vulnerability Testing Framework.</li>
+        <li><b><a href="https://github.com/KataJara19/XOR-EJERCICIO" style="color: #5C4D56;">XOR-EJERCICIO</a></b>: Symmetric Data Encryption.</li>
+        <li><b><a href="https://github.com/KataJara19/VIRUS" style="color: #5C4D56;">VIRUS</a></b>: Threat Intelligence & Malware.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 style="color: #B5838D;">Infrastructure & CS</h4>
+      <ul>
+        <li><b><a href="https://github.com/KataJara19/Security" style="color: #5C4D56;">Security</a></b>: Multi-node Network Routing.</li>
+        <li><b><a href="https://github.com/KataJara19/Ejercicios" style="color: #5C4D56;">Ejercicios</a></b>: Algorithm Complexity.</li>
+        <li><b><a href="https://github.com/KataJara19/Prueba" style="color: #5C4D56;">Prueba</a></b>: Sandbox & Prototyping.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br><hr><br>
+
+<h3 align="center" style="color: #B5838D;">⟡ Technical Expertise ⟡</h3>
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,nodejs&theme=light" alt="Frontend & Backend"/>
   <br><br>
+  <img src="https://skillicons.dev/icons?i=aws,linux,debian,git,github,mysql,postgres&theme=light" alt="Infrastructure & DB"/>
+</div>
+
+<br><hr><br>
+
+<h3 align="center" style="color: #B5838D;">⟡ Engineering Workflow ⟡</h3>
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="16%"><b>Requirements</b></td>
+    <td align="center" width="5%">→</td>
+    <td align="center" width="16%"><b>Architecture</b></td>
+    <td align="center" width="5%">→</td>
+    <td align="center" width="16%"><b>Implementation</b></td>
+    <td align="center" width="5%">→</td>
+    <td align="center" width="16%"><b>Testing</b></td>
+    <td align="center" width="5%">→</td>
+    <td align="center" width="16%"><b>Deployment</b></td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>My workflow begins by understanding the problem, defining an appropriate architecture, and selecting technologies according to scalability, maintainability, and long-term evolution.</i>
+</p>
+
+<br><hr><br>
+
+<h3 align="center" style="color: #B5838D;">⟡ GitHub Analytics ⟡</h3>
+<br>
+
+<!-- NUEVA ESTRATEGIA: Badges nativos que nunca se rompen y respetan el diseño Rose Gold -->
+<div align="center">
+  <a href="https://github.com/KataJara19?tab=repositories">
+    <img src="https://img.shields.io/github/repos/KataJara19?label=Public%20Repositories&style=for-the-badge&color=B5838D&logo=github&logoColor=white" alt="Repos"/>
+  </a>
+  <a href="https://github.com/KataJara19">
+    <img src="https://img.shields.io/github/followers/KataJara19?label=Followers&style=for-the-badge&color=B5838D&logo=github&logoColor=white" alt="Followers"/>
+  </a>
+  <a href="https://github.com/KataJara19">
+    <img src="https://img.shields.io/github/stars/KataJara19?label=Stars&style=for-the-badge&color=B5838D&logo=github&logoColor=white" alt="Stars"/>
+  </a>
+</div>
+
+<br><hr><br>
+
+<div align="center">
+  <p style="color: #888888;"><i>"Software engineering is not only about building applications — it is about designing reliable systems that remain maintainable, secure, and scalable over time."</i></p>
   
-  <!-- BOTONES DE CONTACTO ESTILO MINIMALISTA -->
+  <br>
+  
   <a href="https://www.linkedin.com/in/katalina-loj%C3%A1n-2ab9132a8/">
     <img src="https://img.shields.io/badge/LinkedIn-B5838D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:katalinalojan@gmail.com">
     <img src="https://img.shields.io/badge/Email-B5838D?style=flat-square&logo=minutemailer&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/KataJara19">
-    <img src="https://img.shields.io/badge/GitHub-B5838D?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
-<br><br><br>
-
-<!-- SECCIÓN: ABOUT ME -->
-<div align="center">
-  <h3 style="color: #B5838D;">✧ Professional Profile ✧</h3>
-  <br>
-  <p>
-    I am a 4th-semester <b>Systems Engineering</b> student at Universidad Internacional del Ecuador. <br>
-    My focus lies at the intersection of <i>beautifully crafted software</i> and <i>bulletproof architecture</i>. <br>
-    I specialize in full-stack development, cloud infrastructure, and cybersecurity, ensuring that every <br>
-    system I build is not only highly functional but also secure, maintainable, and scalable.
-  </p>
-</div>
-
-<br><br>
-
-<!-- SECCIÓN: HABILIDADES (TEMA CLARO/SUAVE) -->
-<div align="center">
-  <h3 style="color: #B5838D;">✧ Technical Arsenal ✧</h3>
-  <br>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,nodejs,aws,linux,debian,git,github,mysql,postgres&theme=light&perline=7" alt="Skills"/>
-</div>
-
-<br><br><br>
-
-<!-- SECCIÓN: PROYECTOS (ESTILO LIMPIO Y CENTRALIZADO) -->
-<div align="center">
-  <h3 style="color: #B5838D;">✧ Engineering Portfolio ✧</h3>
-  <br>
-
-  <b><a href="https://github.com/KataJara19/TiendaEsmeralda" style="color: #B5838D; text-decoration: none;">TiendaEsmeralda ∘ Full-Stack Commerce Ecosystem</a></b>
-  <p>Architecture of a complete web store environment featuring secure user query workflows, structured database management, and robust transactional logic.</p>
-  <p><i><sub style="color: #888888;">Full-Stack · Relational DB · MVC Pattern</sub></i></p>
   
-  <br>
-
-  <b><a href="https://github.com/KataJara19/API-SEGURIDAD" style="color: #B5838D; text-decoration: none;">Security & Auth APIs ∘ Backend Endpoints</a></b>
-  <p>Specialized backend endpoints focused on robust authentication validation, secure data exchange protocols, and vulnerability testing frameworks.</p>
-  <p><i><sub style="color: #888888;">FastAPI · JWT Auth · InfoSec</sub></i></p>
-
-  <br>
-
-  <b><a href="https://github.com/KataJara19/Replicaci-n-Youtube" style="color: #B5838D; text-decoration: none;">Media Streaming UI ∘ Frontend Integration</a></b>
-  <p>Integration of modern frontend components interacting with custom backend architectures to handle media streaming layouts and optimized data fetching.</p>
-  <p><i><sub style="color: #888888;">React · Decoupled Architecture · State Management</sub></i></p>
-
-  <br>
-
-  <b><a href="https://github.com/KataJara19/VIRUS" style="color: #B5838D; text-decoration: none;">Infrastructure Labs ∘ Multi-node Networks</a></b>
-  <p>Deployed multi-node networks (VMware, AlmaLinux, MikroTik). Conducted threat intelligence, script-based data encryption, and malware analysis.</p>
-  <p><i><sub style="color: #888888;">Networking · Linux · Threat Intel</sub></i></p>
-
-</div>
-
-<br><br><br>
-
-<!-- SECCIÓN: ESTADÍSTICAS (FORZANDO LA RECARGA DE IMÁGENES CON &v=999 Y TEMA ROSE GOLD) -->
-<div align="center">
-  <h3 style="color: #B5838D;">✧ GitHub Analytics ✧</h3>
-  <br>
-  <a href="https://github.com/KataJara19">
-    <img src="https://github-readme-stats.vercel.app/api?username=KataJara19&show_icons=true&bg_color=ffffff&title_color=B5838D&text_color=6D6875&icon_color=E5989B&border_color=FDF8F5&border_radius=10&v=999" alt="Katalina's GitHub Stats" />
-  </a>
-  <a href="https://github.com/KataJara19">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KataJara19&layout=compact&bg_color=ffffff&title_color=B5838D&text_color=6D6875&border_color=FDF8F5&border_radius=10&v=999" alt="Top Languages" />
-  </a>
-</div>
-
-<br><br><br>
-
-<div align="center">
-  <p style="color: #888888;"><i>"Software engineering is not only about building applications — it is about designing reliable systems that remain maintainable, secure, and scalable over time."</i></p>
+  <br><br>
+  
+  <p><b>Katalina Jaramillo Loján</b><br>
+  <sub style="color: #888888;">Systems Engineering Student | Universidad Internacional del Ecuador</sub></p>
 </div>
