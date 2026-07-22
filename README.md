@@ -1,83 +1,98 @@
+<!-- BANNER SUPERIOR CON ONDAS (ROSE GOLD) -->
 <div align="center">
-  <h1>Katalina Jaramillo Loján</h1>
-  <p><b>Software Engineering Student · Backend Architecture · Cloud Computing · Cybersecurity</b></p>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=2500&color=722F37&center=true&vCenter=true&width=800&lines=Software+Engineering;Backend+Architecture;Cloud+Infrastructure;Secure+Application+Development;Continuous+Learning" alt="Typing effect" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B5838D&height=220&section=header&text=Katalina%20Jaramillo&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20%E2%9C%A6%20Cloud%20Architecture%20%E2%9C%A6%20Cybersecurity&descAlignY=55&descSize=14&animation=fadeIn" width="100%"/>
+</div>
+
+<br>
+
+<!-- ANIMACIÓN DE TEXTO CON FUENTE ELEGANTE (PLAYFAIR DISPLAY) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&pause=2500&color=B5838D&center=true&vCenter=true&width=800&lines=Crafting+elegant+code;Architecting+secure+systems;Designing+scalable+cloud+infrastructure" alt="Typing effect" />
   
   <br><br>
   
+  <!-- BOTONES DE CONTACTO ESTILO MINIMALISTA -->
   <a href="https://www.linkedin.com/in/katalina-loj%C3%A1n-2ab9132a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-F5F5DC?style=for-the-badge&logo=linkedin&logoColor=722F37&labelColor=F5F5DC" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-B5838D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:katalinalojan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F5F5DC?style=for-the-badge&logo=minutemailer&logoColor=722F37&labelColor=F5F5DC" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-B5838D?style=flat-square&logo=minutemailer&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/KataJara19">
-    <img src="https://img.shields.io/badge/GitHub-F5F5DC?style=for-the-badge&logo=github&logoColor=722F37&labelColor=F5F5DC" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-B5838D?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
-<br><hr><br>
+<br><br><br>
 
-## Professional Profile
-
-> **About Me** <br>
-> I am a 4th-semester **Systems Engineering** student at Universidad Internacional del Ecuador. I have a strong interest in software engineering, secure application development, cloud infrastructure, and backend architecture. Throughout my academic and personal projects, I have focused on building scalable software by combining modern development practices with networking, virtualization, and cybersecurity principles.
-
-> **Engineering Focus** <br>
-> Rather than focusing exclusively on application development, I am interested in the **complete software lifecycle**—from software architecture and backend engineering to infrastructure, cloud technologies, and cybersecurity. My objective is to continue developing solutions that integrate modern web technologies with secure software engineering practices, emphasizing performance and reliability.
-
-<br><hr><br>
-
-<h2 align="center">Technical Arsenal</h2>
-
+<!-- SECCIÓN: ABOUT ME -->
 <div align="center">
+  <h3 style="color: #B5838D;">✧ Professional Profile ✧</h3>
   <br>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,nodejs&theme=dark" alt="Frontend & Backend Skills"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=aws,linux,debian,git,github,mysql,postgres&theme=dark" alt="Infrastructure & DB Skills"/>
+  <p>
+    I am a 4th-semester <b>Systems Engineering</b> student at Universidad Internacional del Ecuador. <br>
+    My focus lies at the intersection of <i>beautifully crafted software</i> and <i>bulletproof architecture</i>. <br>
+    I specialize in full-stack development, cloud infrastructure, and cybersecurity, ensuring that every <br>
+    system I build is not only highly functional but also secure, maintainable, and scalable.
+  </p>
+</div>
+
+<br><br>
+
+<!-- SECCIÓN: HABILIDADES (TEMA CLARO/SUAVE) -->
+<div align="center">
+  <h3 style="color: #B5838D;">✧ Technical Arsenal ✧</h3>
   <br>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,nodejs,aws,linux,debian,git,github,mysql,postgres&theme=light&perline=7" alt="Skills"/>
 </div>
 
-<br><hr><br>
+<br><br><br>
 
-## Engineering Portfolio
-
-> ### [TiendaEsmeralda](https://github.com/KataJara19/TiendaEsmeralda)
-> **Full-Stack Commerce Ecosystem** <br>
-> Architecture of a complete web store environment featuring secure user query workflows, structured database management, and robust transactional logic. <br>
-> `Full-Stack` `Relational DB` `MVC Pattern`
-
-> ### [Security & Auth APIs](https://github.com/KataJara19/API-SEGURIDAD)
-> **Backend Security Endpoints (API-SEGURIDAD & Ciberapi)** <br>
-> Specialized backend endpoints focused on robust authentication validation, secure data exchange protocols, and vulnerability testing frameworks. <br>
-> `FastAPI` `JWT Auth` `InfoSec`
-
-> ### [Media Streaming UI](https://github.com/KataJara19/Replicaci-n-Youtube)
-> **Frontend Integration & State Management** <br>
-> Integration of modern frontend components (React) interacting with custom backend architectures to handle media streaming layouts, state management, and optimized data fetching. <br>
-> `React` `Decoupled Architecture`
-
-> ### [Infrastructure & Labs](https://github.com/KataJara19/VIRUS)
-> **Multi-node Networks & Threat Intel** <br>
-> Deployed multi-node networks (VMware, AlmaLinux, MikroTik). Conducted threat intelligence, script-based data encryption (XOR), and analyzed malware behavior. <br>
-> `Networking` `Linux` `Threat Intel`
-
-<br><hr><br>
-
-## GitHub Analytics
-
+<!-- SECCIÓN: PROYECTOS (ESTILO LIMPIO Y CENTRALIZADO) -->
 <div align="center">
+  <h3 style="color: #B5838D;">✧ Engineering Portfolio ✧</h3>
+  <br>
+
+  <b><a href="https://github.com/KataJara19/TiendaEsmeralda" style="color: #B5838D; text-decoration: none;">TiendaEsmeralda ∘ Full-Stack Commerce Ecosystem</a></b>
+  <p>Architecture of a complete web store environment featuring secure user query workflows, structured database management, and robust transactional logic.</p>
+  <p><i><sub style="color: #888888;">Full-Stack · Relational DB · MVC Pattern</sub></i></p>
+  
+  <br>
+
+  <b><a href="https://github.com/KataJara19/API-SEGURIDAD" style="color: #B5838D; text-decoration: none;">Security & Auth APIs ∘ Backend Endpoints</a></b>
+  <p>Specialized backend endpoints focused on robust authentication validation, secure data exchange protocols, and vulnerability testing frameworks.</p>
+  <p><i><sub style="color: #888888;">FastAPI · JWT Auth · InfoSec</sub></i></p>
+
+  <br>
+
+  <b><a href="https://github.com/KataJara19/Replicaci-n-Youtube" style="color: #B5838D; text-decoration: none;">Media Streaming UI ∘ Frontend Integration</a></b>
+  <p>Integration of modern frontend components interacting with custom backend architectures to handle media streaming layouts and optimized data fetching.</p>
+  <p><i><sub style="color: #888888;">React · Decoupled Architecture · State Management</sub></i></p>
+
+  <br>
+
+  <b><a href="https://github.com/KataJara19/VIRUS" style="color: #B5838D; text-decoration: none;">Infrastructure Labs ∘ Multi-node Networks</a></b>
+  <p>Deployed multi-node networks (VMware, AlmaLinux, MikroTik). Conducted threat intelligence, script-based data encryption, and malware analysis.</p>
+  <p><i><sub style="color: #888888;">Networking · Linux · Threat Intel</sub></i></p>
+
+</div>
+
+<br><br><br>
+
+<!-- SECCIÓN: ESTADÍSTICAS (FORZANDO LA RECARGA DE IMÁGENES CON &v=999 Y TEMA ROSE GOLD) -->
+<div align="center">
+  <h3 style="color: #B5838D;">✧ GitHub Analytics ✧</h3>
+  <br>
   <a href="https://github.com/KataJara19">
-    <img src="https://github-readme-stats.vercel.app/api?username=KataJara19&show_icons=true&theme=transparent&title_color=722F37&icon_color=722F37&text_color=777777&hide_border=true&include_all_commits=true&v=1" alt="Katalina's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KataJara19&show_icons=true&bg_color=ffffff&title_color=B5838D&text_color=6D6875&icon_color=E5989B&border_color=FDF8F5&border_radius=10&v=999" alt="Katalina's GitHub Stats" />
   </a>
   <a href="https://github.com/KataJara19">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KataJara19&layout=compact&theme=transparent&title_color=722F37&text_color=777777&hide_border=true&v=1" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KataJara19&layout=compact&bg_color=ffffff&title_color=B5838D&text_color=6D6875&border_color=FDF8F5&border_radius=10&v=999" alt="Top Languages" />
   </a>
 </div>
 
-<br><hr><br>
+<br><br><br>
 
 <div align="center">
-  <p><i>"Software engineering is not only about building applications — it is about designing reliable systems that remain maintainable, secure, and scalable over time."</i></p>
+  <p style="color: #888888;"><i>"Software engineering is not only about building applications — it is about designing reliable systems that remain maintainable, secure, and scalable over time."</i></p>
 </div>
