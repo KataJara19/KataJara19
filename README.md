@@ -28,7 +28,9 @@
 > <br><br>
 > My objective is to continue developing solutions that integrate modern web technologies with secure software engineering practices, emphasizing performance, reliability, and clean architectural design.
 
-<br><hr><br>
+<br>
+<p align="center" style="color: #B5838D;">────── ⟡ ──────</p>
+<br>
 
 <div align="center">
   <h2 style="color: #B5838D;">⟡ Software Engineering Domains ⟡</h2>
@@ -48,19 +50,24 @@ Building software prepared for cloud environments while exploring deployment str
 **∘ Cybersecurity** <br>
 Applying security principles throughout software development, including authentication, authorization, encryption, and infrastructure protection.
 
-<br><hr><br>
+<br>
+<p align="center" style="color: #B5838D;">────── ⟡ ──────</p>
+<br>
 
 <div align="center">
   <h2 style="color: #B5838D;">⟡ Engineering Metrics ⟡</h2>
   <br>
-  <!-- Insignias estáticas personalizadas: Cero errores y alineadas al diseño Rose Gold -->
-  <img src="https://img.shields.io/badge/Repositories-11%2B-B5838D?style=for-the-badge&logo=github&logoColor=white" alt="11+ Repositories"/>
-  <img src="https://img.shields.io/badge/Full--Stack_Projects-4-B5838D?style=for-the-badge&logo=react&logoColor=white" alt="4 Full-Stack Projects"/>
-  <img src="https://img.shields.io/badge/Infrastructure_Labs-7%2B-B5838D?style=for-the-badge&logo=linux&logoColor=white" alt="7+ Infrastructure Labs"/>
-  <img src="https://img.shields.io/badge/Continuous_Learning-100%25-B5838D?style=for-the-badge&logo=amazonaws&logoColor=white" alt="100% Continuous Learning"/>
+  <!-- Botones alargados con espaciado interno para un look premium -->
+  <img src="https://img.shields.io/badge/%20%20%20Repositories%20%20%20-11%2B-B5838D?style=for-the-badge&logo=github&logoColor=white" alt="11+ Repositories"/>
+  <img src="https://img.shields.io/badge/%20%20%20Full--Stack_Projects%20%20%20-4-B5838D?style=for-the-badge&logo=react&logoColor=white" alt="4 Full-Stack Projects"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/%20%20%20Infrastructure_Labs%20%20%20-7%2B-B5838D?style=for-the-badge&logo=linux&logoColor=white" alt="7+ Infrastructure Labs"/>
+  <img src="https://img.shields.io/badge/%20%20%20Continuous_Learning%20%20%20-100%25-B5838D?style=for-the-badge&logo=amazonaws&logoColor=white" alt="100% Continuous Learning"/>
 </div>
 
-<br><hr><br>
+<br>
+<p align="center" style="color: #B5838D;">────── ⟡ ──────</p>
+<br>
 
 <div align="center">
   <h2 style="color: #B5838D;">⟡ Engineering Portfolio ⟡</h2>
@@ -84,7 +91,9 @@ Applying security principles throughout software development, including authenti
 *   **[Ejercicios](https://github.com/KataJara19/Ejercicios)**: Algorithm Complexity & Data Structures.
 *   **[Prueba](https://github.com/KataJara19/Prueba)**: Sandbox & Prototyping Environment.
 
-<br><hr><br>
+<br>
+<p align="center" style="color: #B5838D;">────── ⟡ ──────</p>
+<br>
 
 <div align="center">
   <h2 style="color: #B5838D;">⟡ Technical Expertise ⟡</h2>
@@ -94,28 +103,34 @@ Applying security principles throughout software development, including authenti
   <img src="https://skillicons.dev/icons?i=aws,linux,debian,git,github,mysql,postgres&theme=light" alt="Infrastructure & DB"/>
 </div>
 
-<br><hr><br>
+<br>
+<p align="center" style="color: #B5838D;">────── ⟡ ──────</p>
+<br>
 
 <div align="center">
   <h2 style="color: #B5838D;">⟡ Engineering Workflow ⟡</h2>
   <br>
-  <p><b>Requirements</b> ⟶ <b>Architecture</b> ⟶ <b>Implementation</b> ⟶ <b>Testing</b> ⟶ <b>Deployment</b></p>
+  <p><b>Requirements</b> &nbsp;⟶&nbsp; <b>Architecture</b> &nbsp;⟶&nbsp; <b>Implementation</b> &nbsp;⟶&nbsp; <b>Testing</b> &nbsp;⟶&nbsp; <b>Deployment</b></p>
   <br>
   <p><i>My workflow begins by understanding the problem, defining an appropriate architecture, and selecting technologies according to scalability, maintainability, and long-term evolution.</i></p>
 </div>
 
-<br><hr><br>
+<br>
+<p align="center" style="color: #B5838D;">────── ⟡ ──────</p>
+<br>
 
 <div align="center">
   <p style="color: #888888;"><i>"Software engineering is not only about building applications — it is about designing reliable systems that remain maintainable, secure, and scalable over time."</i></p>
   
   <br>
   
+  <!-- Botones de contacto alargados -->
   <a href="https://www.linkedin.com/in/katalina-loj%C3%A1n-2ab9132a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-B5838D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/%20%20%20LinkedIn%20%20%20-B5838D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:katalinalojan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-B5838D?style=flat-square&logo=minutemailer&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/%20%20%20Email%20%20%20-B5838D?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
   </a>
   
   <br><br>
