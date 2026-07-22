@@ -3,8 +3,6 @@
 # Katalina Jaramillo Loján
 ### Systems Engineering Student | Full-Stack Developer & Cybersecurity Enthusiast
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 </div>
 
 ---
@@ -18,8 +16,8 @@ Fourth-semester Systems Engineering student at Universidad Internacional del Ecu
 ### Technical Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-18.0-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -27,10 +25,6 @@ Fourth-semester Systems Engineering student at Universidad Internacional del Ecu
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
 
 ---
 
@@ -41,26 +35,21 @@ Fourth-semester Systems Engineering student at Universidad Internacional del Ecu
 *   **Ciberapi & API-SEGURIDAD:** Development of specialized endpoints focused on authentication validation, secure data exchange protocols, and vulnerability testing frameworks.
 *   **Infrastructure & Security Labs:** Implementation of multi-node network environments (AlmaLinux, MikroTik, Debian on VMware), routing analysis, script-based data encryption exercises (XOR), and threat intelligence validation using network protocol analyzers and security scripts.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
-
 ---
 
 ### GitHub Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KataJara19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KataJara19&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KataJara19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KataJara19&theme=tokyonight&hide_border=true" width="70%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KataJara19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KataJara19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
