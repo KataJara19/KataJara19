@@ -3,13 +3,15 @@
 # Katalina Jaramillo Loján
 ### Systems Engineering Student | Full-Stack Developer & Cybersecurity Enthusiast
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 </div>
 
 ---
 
 ### Professional Profile
 
-Fourth-semester Systems Engineering student at Universidad Internacional del Ecuador and coordinator for the AWS Student Builder Group. Focused on software development, network architecture, and cybersecurity simulations, combining modern frontend design principles with robust backend services and virtualized infrastructure environments.
+Fourth-semester Systems Engineering student at Universidad Internacional del Ecuador and coordinator for the AWS Student Builder Group. Focused on software development, network architecture, and cybersecurity simulations, bridging the gap between secure cloud infrastructure, scalable backend systems, and modern user interfaces.
 
 ---
 
@@ -26,17 +28,26 @@ Fourth-semester Systems Engineering student at Universidad Internacional del Ecu
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
 ---
 
 ### Key Projects
 
-*   **Full-Stack Media Platforms:** Design and implementation of scalable web applications utilizing React frontend components integrated with FastAPI backend endpoints, leveraging Amazon S3 for cloud storage and automated content moderation via Amazon Rekognition.
-*   **Enterprise Network Infrastructures:** Deployment of multi-node laboratory environments combining AlmaLinux, MikroTik RouterOS, and Debian within VMware Workstation, configuring advanced routing topologies, NAT masquerading, and centralized log aggregation pipelines.
-*   **Security Assessment Laboratories:** Execution of defensive and offensive analysis workflows utilizing protocol analyzers, vulnerability scanners, and threat intelligence verification APIs.
+*   **TiendaEsmeralda & E-Commerce Ecosystems:** Design and deployment of web store environments with structured database management, secure user query workflows, and transactional logic.
+*   **API-con-frontend & Replicación-YouTube:** Integration of modern frontend components (React) interacting with custom backend architectures (FastAPI) to handle media streaming layouts, state management, and optimized data fetching.
+*   **Ciberapi & API-SEGURIDAD:** Development of specialized endpoints focused on authentication validation, secure data exchange protocols, and vulnerability testing frameworks.
+*   **Infrastructure & Security Labs:** Implementation of multi-node network environments (AlmaLinux, MikroTik, Debian on VMware), routing analysis, script-based data encryption exercises (XOR), and threat intelligence validation using network protocol analyzers and security scripts.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
 ---
 
-### GitHub Statistics
+### GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KataJara19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
@@ -45,6 +56,10 @@ Fourth-semester Systems Engineering student at Universidad Internacional del Ecu
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KataJara19&theme=tokyonight&hide_border=true" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
 ---
